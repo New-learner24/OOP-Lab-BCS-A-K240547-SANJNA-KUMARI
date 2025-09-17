@@ -13,4 +13,5 @@ getline(cin, s1.name);
 cout<<"Enter rollNumber: ";
 cin>>s1.rollNumber;
 cout<<"Name = "<<s1.name<<", RollNumber = "<<s1.rollNumber<<endl;
+  return 0;
 }
