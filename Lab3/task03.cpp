@@ -21,4 +21,5 @@ int main(){
     c1.setNumbers(n1,n2);
     int Sum=c1.add();
 cout<<"The sum is = "<<Sum<<endl;
+    return 0;
 }
