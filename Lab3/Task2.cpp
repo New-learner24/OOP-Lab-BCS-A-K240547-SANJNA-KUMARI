@@ -20,4 +20,5 @@ cout<<"Enter roll number: ";
 cin>>n;
 s1.setRollNo(n);
 cout<<"The roll no is = "<<s1.getRollNo()<<endl;
+    return 0;
 }
